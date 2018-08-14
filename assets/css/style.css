@@ -1,0 +1,106 @@
+html
+{
+    background-image: url(../images/wavy-dots.png);
+}
+
+body
+{
+    margin: 0px;
+}
+header
+{
+    margin: 0px;
+    border-bottom: 1px solid #cccccc;
+}
+
+h1
+{
+    margin: 0
+}
+
+.logo
+{
+    background-color: #4aaaa5;
+    width: 339px;
+    height: 54px;
+    text-align: center;
+    color: #ffffff;
+    float: left;
+    margin: 0% 20% 2% 15%;
+    padding: 8px 0px 0px 0px;
+}
+
+a
+{
+    color: #cccccc;
+    text-decoration: none;
+    
+}
+
+nav
+{
+    background: #ffffff;
+    height: 42px;
+    word-spacing: 35px;
+    padding: 20px 0px 0px 0px;
+    border-bottom: 10px;
+    border-bottom-color: #cccccc;
+}
+
+
+.active
+{
+    font: #cccccc;
+
+}
+.container02
+{
+    color: #4aaaa5;
+    float: left;
+    clear: both;
+    margin-left: 15%;
+    margin-bottom: 15%;
+    width: 960px;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+
+.bioimage
+{
+    float: left;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+    float: right;
+    width: 720px;
+}
+
+
+.aboutme
+{
+    font: #4aaaa5;
+    float: left;
+}
+
+h2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px;
+    border-color: #dddddd;
+}
+
+.footer
+{
+   position: fixed;
+   height: 80px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #666666;
+   text-align: center;
+   border-top: 10px solid #4aaaa5;
+}
